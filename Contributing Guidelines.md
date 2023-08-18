@@ -6,8 +6,7 @@ Thank you for considering contributing to our open source project! By contributi
 
 - [Code of Conduct](#code-of-conduct)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setting up the Development Environment](#setting-up-the-development-environment)
+  - [Prerequisites & Setting up the Development Environment ](#prerequisites and setting-up-the-development-environment)
 - [Making Contributions](#making-contributions)
   - [Creating Issues](#creating-issues)
   - [Working on Issues](#working-on-issues)
@@ -24,7 +23,7 @@ Before contributing, please review our [Code of Conduct](CodeOfConduct.md). We a
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites and setting-up-the-development-environment
 
 List any software, tools, libraries, or dependencies contributors need to have installed before they can contribute. Provide clear instructions or links for installation.
 
