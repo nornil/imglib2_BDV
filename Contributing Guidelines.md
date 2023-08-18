@@ -23,7 +23,7 @@ Before contributing, please review our [Code of Conduct](CodeOfConduct.md). We a
 
 ## Getting Started
 
-### Prerequisites and setting-up-the-development-environment
+### Prerequisites & Setting up the Development Environment
 
 List any software, tools, libraries, or dependencies contributors need to have installed before they can contribute. Provide clear instructions or links for installation.
 
