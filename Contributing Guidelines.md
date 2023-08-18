@@ -6,7 +6,7 @@ Thank you for considering contributing to our open source project! By contributi
 
 - [Code of Conduct](#code-of-conduct)
 - [Getting Started](#getting-started)
-  - [Prerequisites & Setting up the Development Environment](#prerequisites_and_setting-up-the-development-environment)
+  - [Prerequisites & Setting up the Development Environment](#prerequisites-and-setting-up-the-development-environment)
 - [Making Contributions](#making-contributions)
   - [Creating Issues](#creating-issues)
   - [Working on Issues](#working-on-issues)
