@@ -74,7 +74,7 @@ If your changes introduce new features or modify existing ones, please update th
 
 ## Community
 
-Join our community on [link-to-community-platform] for discussions, questions, and announcements. We welcome your feedback and ideas.
+Join in our community discussions on [link-to-community-platform] for discussions, questions, and announcements. We welcome your feedback and ideas.
 
 ## License
 
