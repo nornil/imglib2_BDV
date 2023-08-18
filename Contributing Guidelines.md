@@ -4,7 +4,7 @@ Thank you for considering contributing to our open source project! By contributi
 
 ## Table of Contents
 
-- [Code of 1Conduct](#code-of-conduct)
+- [Code of Conduct](#code-of-1conduct)
 - [Getting Started](#getting-started)
   - [Prerequisites & Setting up the Development Environment](#prerequisites-and-setting-up-the-development-environment)
 - [Making Contributions](#making-contributions)
