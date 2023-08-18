@@ -1,13 +1,13 @@
-Code of Conduct. Bigdataviewer and Imglib2 
+## Code of Conduct -  BigDataViewer and Imglib2 software projects 
 
-Introduction
+#Introduction
 This code of conduct pertains to all platforms overseen by the projects Imglib2 and BigDataViewer, encompassing both public and private mailing lists, issue trackers, wikis, blogs, Twitter, and other communication channels employed by our community. Any events linked to our community in strongly encouraged to adopt a code of conduct akin to this one. 
 
 All participants within this community, whether in formal or informal capacities, or those associating themselves with the project in any project-related engagements, are expected to adhere to this code of conduct. This holds true particularly when representing the project in any capacity.
 
 While this code isn't exhaustive, it encapsulates our collective perception of a cooperative and shared environment with common objectives. We encourage the observance of this code not only in its literal interpretation but also in its underlying spirit, fostering a welcoming and productive atmosphere that enhances the wider community.
 
-Specific Guidelines
+#Specific Guidelines
 We aim to:
 
 Foster Openness: We welcome all individuals to engage in our community. Public communication avenues are preferred for project-related communications, except when addressing sensitive matters. This principle extends to queries or support requests – public inquiries are not only more likely to receive responses but also facilitate the detection and correction of inadvertent errors.
@@ -38,7 +38,7 @@ In the case of conflicts of interest, reports can alternatively be made to:
 - Pavel, Nils? 
 
 
-Enforcement and Incident Resolution
+#Enforcement and Incident Resolution
 This section summarizes crucial points; refer to "BDV&Imglib2 Code of Conduct - How to follow up on a report" for comprehensive details.
 
 All complaints will be investigated and addressed. The Code of Conduct Committee, along with the BDV&Imglib2 Steering Committee if applicable, will maintain the reporter's confidentiality and treat complaints as private (unless otherwise agreed by the reporter).
@@ -55,7 +55,7 @@ For breaches not of severe nature, the process includes:
 Emphasizing promptness and fairness, reports will be addressed as soon as possible, likely within 72 hours.  
 
 
-Endnotes#
+#Endnotes#
 We are thankful to the groups behind the following documents, from which we drew content and inspiration:
 •	[The Apache Foundation Code of Conduct](https://www.apache.org/foundation/policies/conduct.html)
 •	[The Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct/)
