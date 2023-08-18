@@ -20,7 +20,7 @@ Thank you for considering contributing to our open source project! By contributi
 
 ## Code of Conduct
 
-Before contributing, please review our [Code of Conduct](CODE_OF_CONDUCT.md). We aim to foster an inclusive and respectful community where everyone feels safe to participate.
+Before contributing, please review our [Code of Conduct](CodeOfConduct.md). We aim to foster an inclusive and respectful community where everyone feels safe to participate.
 
 ## Getting Started
 
