@@ -41,11 +41,11 @@
 ## Article
 
 
-- **How to Produce Videos with BigDataViewer** - Marwan Zouinkhi
+- **Marwan Zouinkhi** *How to Produce Videos with BigDataViewer*   
   - Video: [Watch here](https://www.youtube.com/watch?v=vXu4ZOboEio)
 
-- **Big Data I: Visualisation, File Formats and Processing in FIJI** - [NEUBIAS Academy @Home] Webinar
-  - Video: [Watch here](https://www.youtube.com/watch?v=LHI7vXiUUms)
+- **[NEUBIAS Academy @Home] Webinar** *Big Data I: Visualisation, File Formats and Processing in FIJI* 
+  - Video: [https://www.youtube.com/watch?v=LHI7vXiUUms](https://www.youtube.com/watch?v=LHI7vXiUUms)
 
 - **BigDataViewer Presentation by Tobias Pietzsch**
   - GitHub Repository: [https://github.com/bigdataviewer](https://github.com/bigdataviewer)
