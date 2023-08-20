@@ -5,7 +5,8 @@
 
  ## Video Lectures
 
-- **BigDataViewer Presentation by Tobias Pietzsch, a [NEUBIAS Academy @Home] Webinar** *Big Data I: Visualisation, File Formats and Processing in FIJI* 
+- **BigDataViewer Presentation by Tobias Pietzsch, a [NEUBIAS Academy @Home] Webinar**
+- *Big Data I: Visualisation, File Formats and Processing in FIJI* 
   - Video: [https://www.youtube.com/watch?v=LHI7vXiUUms](https://www.youtube.com/watch?v=LHI7vXiUUms)
 
 
@@ -13,13 +14,7 @@
   - Video: [https://www.youtube.com/watch?v=vXu4ZOboEio](https://www.youtube.com/watch?v=vXu4ZOboEio)
 
 
-
-## Tutorials and Notebooks
-
-## Learning BigDataViewer discussions at image.sc
- 
-## Article
-
+## Tutorials and Notebooks 
 
 ## References 
  - **Publication** : Pietzsch, T., Saalfeld, S., Preibisch, S., & Tomancak, P. (2015). BigDataViewer: Visualization and Processing for Large Image Data Sets. Nature Methods, 12(6), 481–483.,[doi:10.1038/nmeth.3392](https://doi:10.1038/nmeth.3392)
