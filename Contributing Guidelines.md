@@ -73,7 +73,7 @@ If your changes introduce new features or modify existing ones, please update th
 
 ## Community
 
-Join in our community discussions on [imagesc.zulipchat.com](https://imagesc.zulipchat.com/) for discussions. For more general questions of broad interest and announcements image.sc forum can be used advantageously. We welcome your feedback and ideas.
+Join in our community discussions on [imagesc.zulipchat.com](https://imagesc.zulipchat.com/) for discussions. For more general questions of broad interest and announcements the [image.sc forum](https://forum.image.sc/) can be used advantageously. We welcome your feedback and ideas.
 
 ## License
 
