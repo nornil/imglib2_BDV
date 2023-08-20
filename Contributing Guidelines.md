@@ -35,7 +35,7 @@ Briefly describe the steps to set up the development environment. Include instru
 
 ### Creating Issues
 
-If you find a bug, have a feature request, or encounter any issues, please search our [issue tracker ImgLib2]([link-to-issues](https://github.com/imglib/imglib2/issues)) and [issue trackerBDV]([link-to-issues](https://github.com/bigdataviewer/bigdataviewer-core/issues))to see if it has already been reported. If not, feel free to create a new issue  and provide as much detail as possible.
+If you find a bug, have a feature request, or encounter any issues, please search our [ImgLib2 issue tracker](https://github.com/imglib/imglib2/issues) and [BDV issue tracker](https://github.com/bigdataviewer/bigdataviewer-core/issues) to see if it has already been reported. If not, feel free to create a new issue and provide as much detail as possible. 
 
 ### Working on Issues
 
