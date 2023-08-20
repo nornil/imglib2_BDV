@@ -60,5 +60,4 @@ We are thankful to the groups behind the following documents, from which we drew
 •	[Open Source Guides - Code of Conduct](https://opensource.guide/code-of-conduct/)
 
 
-![image](https://github.com/nornil/imglib2_BDV/assets/12096956/78fa7a31-b365-4323-94b0-78d65f5fb024)
 
