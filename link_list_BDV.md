@@ -22,5 +22,5 @@
   - BigDataProcessor2: [GitHub Repository](https://github.com/bigdataviewer/BigDataProcessor2)
 
 ## References 
-  - Pietzsch, T., Saalfeld, S., Preibisch, S., & Tomancak, P. (2015). [BigDataViewer: Visualization and Processing for Large Image Data Sets](https://www.nature.com/articles/nmeth.3392). Nature Methods, 12(6), 481–483. doi:10.1038/nmeth.3392
-  - see also 
+ - **Publication** : Pietzsch, T., Saalfeld, S., Preibisch, S., & Tomancak, P. (2015). BigDataViewer: Visualization and Processing for Large Image Data Sets. Nature Methods, 12(6), 481–483.,[doi:10.1038/nmeth.3392](https://doi:10.1038/nmeth.3392)
+- See also [ImgLib2 Resources](link_list_ImgLib2.md)
