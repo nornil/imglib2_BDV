@@ -26,7 +26,7 @@
 
 ## References 
 
-- Publication: Tobias Pietzsch and others, ImgLib2—generic image processing in Java, Bioinformatics, Volume 28, Issue 22, November 2012, Pages 3009–3011, [https://doi.org/10.1093/bioinformatics/bts543](https://doi.org/10.1093/bioinformatics/bts543)
-- 
+- **Publication** : Tobias Pietzsch, Stephan Preibisch, Pavel Tomančák, Stephan Saalfeld, ImgLib2—generic image processing in Java, Bioinformatics, Volume 28, Issue 22, November 2012, Pages 3009–3011, [https://doi.org/10.1093/bioinformatics/bts543](https://doi.org/10.1093/bioinformatics/bts543)
+- See also [BigDataViewer Resources](link_list_BDV.md)
 
 
