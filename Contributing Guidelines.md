@@ -73,9 +73,8 @@ If your changes introduce new features or modify existing ones, please update th
 
 ## Community
 
-Join in our community discussions on [link-to-community-platform] for discussions, questions, and announcements. We welcome your feedback and ideas.
+Join in our community discussions on [imagesc.zulipchat.com](https://imagesc.zulipchat.com/) for discussions. For more general questions of broad interest and announcements image.sc forum can be used advantageously. We welcome your feedback and ideas.
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the project's license [ImgLib2 license] (https://github.com/imglib/imglib2/blob/master/LICENSE.txt) and [BigDataViewer license] (https://github.com/bigdataviewer/bigdataviewer-core/blob/master/LICENSE.txt) a BSD 2-Clause "Simplified" License
-. If you're not comfortable with this, please consider refrain from contributing. 
+By contributing to this project, you agree that your contributions will be licensed under the project's license [ImgLib2 license](https://github.com/imglib/imglib2/blob/master/LICENSE.txt) and [BigDataViewer license](https://github.com/bigdataviewer/bigdataviewer-core/blob/master/LICENSE.txt) a BSD 2-Clause "Simplified" License. If you're not comfortable with this, please consider refrain from contributing. 
