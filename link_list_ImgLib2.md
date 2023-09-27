@@ -14,13 +14,14 @@
 
 ## Tutorials and Notebooks
 
-- Jupyter Notebook: [How to Display ImgLib2 Data](https://imglib.github.io/imglib2-blog/imglib2/jupyter/notebook/2022/09/14/how-to-display-imglib2-data.html)
-- ImageJ Tutorials Jupyter Notebook1: [ImgLib2 Basics](https://github.com/imagej/tutorials/blob/master/notebooks/1-Using-ImageJ/3-ImgLib2-Basics.ipynb)
-- ImageJ Tutorials Jupyter Notebook2: [ImgLib2 in Detail](https://github.com/imagej/tutorials/blob/master/notebooks/3-Advanced-Topics/2-ImgLib2-in-Detail.ipynb)
-- [I2K2020 ImgLib2 Intro](https://github.com/saalfeldlab/i2k2020-imglib2-intro)
-- [ImgLib2 introductory workshop](https://github.com/imglib/imglib2-introductory-workshop) (older)
-- [I2K2020 ImgLib2 Advanced](https://github.com/saalfeldlab/i2k2020-imglib2-advanced)
-- [ImgLib2 advanced workshop](https://github.com/imglib/imglib2-advanced-workshop) (older)
+- Blog example on Jupyter Notebook: [How to Display ImgLib2 Data](https://imglib.github.io/imglib2-blog/imglib2/jupyter/notebook/2022/09/14/how-to-display-imglib2-data.html)
+- (LOCI?) ImageJ Tutorials Jupyter Notebook1: [ImgLib2 Basics](https://github.com/imagej/tutorials/blob/master/notebooks/1-Using-ImageJ/3-ImgLib2-Basics.ipynb)
+- (LOCI?) ImageJ Tutorials Jupyter Notebook2: [ImgLib2 in Detail](https://github.com/imagej/tutorials/blob/master/notebooks/3-Advanced-Topics/2-ImgLib2-in-Detail.ipynb)
+-   ImgLib2-intro : [ImgLib2 introductory workshop](https://github.com/imglib/imglib2-introductory-workshop) (older)
+- Saalfeldlab i2k intro [I2K2020 ImgLib2 Intro](https://github.com/saalfeldlab/i2k2020-imglib2-intro)
+- Saalfeldlab i2k-tutorial: [I2K2020 ImgLib2 tutorial](https://github.com/saalfeldlab/i2k-tutorial)
+- Saalfeldlab ImgLib2-advanced : [I2K2020 ImgLib2 Advanced](https://github.com/saalfeldlab/i2k2020-imglib2-advanced)
+
 
 ## Learning ImgLib2 discussions at image.sc
 
