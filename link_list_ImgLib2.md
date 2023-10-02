@@ -22,6 +22,7 @@
 - Saalfeldlab ImgLib2-intro [I2K2020 ImgLib2 Intro](https://github.com/saalfeldlab/i2k2020-imglib2-intro)
 - Saalfeldlab ImgLib2-advanced : [I2K2020 ImgLib2 Advanced](https://github.com/saalfeldlab/i2k2020-imglib2-advanced)
 - Saalfeldlab i2k-tutorial: [I2K2020 tutorial](https://github.com/saalfeldlab/i2k-tutorial) (Use N5, ImgLib2-Cache, and Spark)
+- [DAIS learnathon](https://imagej.net/events/learnathon-2017) by Matthias Arzt: [imglib2-introductory-workshop](https://github.com/imglib/imglib2-introductory-workshop)
 
 
 ## Learning ImgLib2 discussions at image.sc
@@ -37,7 +38,7 @@
 ## Uncategorized (TODO)
 
 - [nta.kt](https://github.com/saalfeldlab/ntakt) (Saalfeld lab) The nta.kt library brings n-dimensional transformation and algebra to Kotlin. It combines the expressive power and flexibility of the Java image processing library ImgLib2 with the convenience and clarity that Kotlin language features provide.
-
+- [imglib2-trainable-segmentation (random forests)](https://github.com/maarzt/imglib2-trainable-segmentation-demo) (Matthias Arzt, DAIS project) The repository shows example programs for segmentation of 2D and 3D images using random forests. One only needs to provide an input image and its (segmentation) labeling.
 
 
 
