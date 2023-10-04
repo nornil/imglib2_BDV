@@ -22,13 +22,13 @@
 - Saalfeldlab ImgLib2-intro [I2K2020 ImgLib2 Intro](https://github.com/saalfeldlab/i2k2020-imglib2-intro)
 - Saalfeldlab ImgLib2-advanced : [I2K2020 ImgLib2 Advanced](https://github.com/saalfeldlab/i2k2020-imglib2-advanced)
 - Saalfeldlab i2k-tutorial: [I2K2020 tutorial](https://github.com/saalfeldlab/i2k-tutorial) (Use N5, ImgLib2-Cache, and Spark)
-- [DAIS learnathon](https://imagej.net/events/learnathon-2017) by Matthias Arzt: [imglib2-introductory-workshop](https://github.com/imglib/imglib2-introductory-workshop)
-
+- [DAIS learnathon](https://imagej.net/events/learnathon-2017) by Matthias Arzt: [imglib2-algorithm-workshop](https://github.com/maarzt/imglib2-algorithm-workshop)
 
 ## Learning ImgLib2 discussions at image.sc
 
 - [Learning ImgLib2 Development](https://forum.image.sc/t/learning-imglib2-development/24833)
 - [Other threads on Image.sc](https://forum.image.sc/search?expanded=true&q=imglib2)
+- [ImgLib2 Documentation](https://imagej.net/libs/imglib2/documentation) on [imagej.net wiki](https://imagej.net/libs/imglib2)
 
 ## References 
 
