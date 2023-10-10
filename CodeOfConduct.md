@@ -1,7 +1,7 @@
 ## Code of Conduct -  BigDataViewer and Imglib2 software projects 
 
 ### Introduction
-This code of conduct pertains to all platforms overseen by the projects Imglib2 and BigDataViewer, encompassing both public and private mailing lists, issue trackers, wikis, blogs, X (Twitter), and other communication channels employed by our community. Any events linked to our community in strongly encouraged to adopt a code of conduct akin to this one. 
+This code of conduct pertains to all platforms overseen by the projects Imglib2 and BigDataViewer, encompassing both public and private mailing lists, issue trackers, webpages,wikis, blogs, image.sc, zulip, X (Twitter), and other communication channels employed by our community. Any events linked to our community is strongly encouraged to adopt a code of conduct akin to this one. 
 
 All participants within this community, whether in formal or informal capacities, or those associating themselves with the project in any project-related engagements, are expected to adhere to this code of conduct. This holds true particularly when representing the project in any capacity.
 
