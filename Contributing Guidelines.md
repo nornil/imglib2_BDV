@@ -44,7 +44,7 @@ If you want to work on an existing issue, please follow these steps:
 1. Comment on the issue to express your interest in working on it.
 2. Fork the repository and create a new branch for your work.
 3. Make your changes and commit them with clear commit messages.
-4. Ensure your code follows our [Code Guidelines](#Code-Guidelines).
+4. Ensure your code follows our [Code Guidelines](Code-Guidelines).
 5. Update the documentation if necessary.
 6. Run tests to ensure your changes don't break existing functionality.
 
