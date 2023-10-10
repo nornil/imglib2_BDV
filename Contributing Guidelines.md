@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for considering contributing to our open source project! By contributing, you are helping to improve and grow the software for everyone in the community. We appreciate your time and effort.
+Thank you for considering contributing to ImgLib2 and BigDataViewer open source projects! By contributing, you are helping to improve and grow the software for everyone in the community. We appreciate your time and effort.
 
 ## Table of Contents
 
