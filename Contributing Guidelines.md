@@ -40,7 +40,7 @@ List any software, tools, libraries, or dependencies contributors need to have i
 Briefly describe the steps to set up the development environment. Include instructions for cloning the repository, installing dependencies, and any configuration that's needed.
 
 ## Making Contributions
-Please see the general guidlines on how to contribute "How to contribute to an existing plugin or library" [https://imagej.net/develop/improving-the-code](https://imagej.net/develop/improving-the-code)
+Please see the general guidlines on how to contribute to an existing plugin or library: [https://imagej.net/develop/improving-the-code](https://imagej.net/develop/improving-the-code)
 
 ### Creating Issues
 
