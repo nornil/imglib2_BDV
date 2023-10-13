@@ -4,7 +4,7 @@ Thank you for considering contributing to ImgLib2 and BigDataViewer open source 
 
 ## Table of Contents
 
-- [governance](#Governance)
+- [Governance](#Governance)
 - - [Code of Conduct](#code-of-conduct)
 - [Getting Started](#getting-started)
   - [Prerequisites & Setting up the Development Environment](#prerequisites-and-setting-up-the-development-environment)
