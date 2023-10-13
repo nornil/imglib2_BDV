@@ -4,7 +4,8 @@ Thank you for considering contributing to ImgLib2 and BigDataViewer open source 
 
 ## Table of Contents
 
-- [Code of Conduct](#code-of-conduct)
+- [governance](#Governance)
+- - [Code of Conduct](#code-of-conduct)
 - [Getting Started](#getting-started)
   - [Prerequisites & Setting up the Development Environment](#prerequisites-and-setting-up-the-development-environment)
 - [Making Contributions](#making-contributions)
@@ -16,6 +17,13 @@ Thank you for considering contributing to ImgLib2 and BigDataViewer open source 
 - [Documentation](#documentation)
 - [Community](#community)
 - [License](#license)
+
+## Governance
+ 
+And the team role definitions:
+Founder - Created the project. Does not imply any current participation or responsibility.
+Lead - Has decision-making authority: timing of releases, inclusion of features, etc.
+Maintainer - Merges patch submissions. Cuts releases.
 
 ## Code of Conduct
 
