@@ -23,7 +23,7 @@ Uphold Diversity: This open source project celebrates and welcomes all contribut
 Mindful Communication: Our dialogue is marked by thoughtfulness and respect, with each of us taking responsibility for our words. Kindness prevails, and disparaging remarks are discouraged. Harassment and exclusionary behavior, including but not limited to violent threats, discriminatory language, explicit or violent content, and breaches of privacy, are strictly prohibited.
 
 Reporting Process: Recognizing that online communication can devolve into abuse, we approach breaches with understanding. Deliberate infractions should be reported to the Code of Conduct committee. For potential unintentional breaches, individuals may either privately point out the Code of Conduct or report directly to the committee or seek advice.
-To report issues, contact BDV&Imglib2-conduct@gmail.com.
+To report issues, contact BDV_Imglib2-conduct@gmail.com.
 
 In the case of conflicts of interest, reports can alternatively be made to:
 
